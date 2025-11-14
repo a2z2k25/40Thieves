@@ -123,13 +123,13 @@ forty-thieves/
 
 ### Framework Components
 
-| Component | Purpose | Emoji |
-|-----------|---------|-------|
-| **Strategy** | Product planning, RICE prioritization, roadmap | 🟡 |
-| **Backend** | Infrastructure, APIs, database, DevOps | 🟢 |
-| **Frontend** | UI/UX design, accessibility, design systems | 🔴 |
-| **Testing** | Quality assurance, security, performance | 🟠 |
-| **Completion** | Deployment, monitoring, SRE, operations | 🏁 |
+| Component | Purpose |
+|-----------|---------|
+| 🟡 **Strategy** | Product planning, RICE prioritization, roadmap |
+| 🟢 **Backend** | Infrastructure, APIs, database, DevOps |
+| 🔴 **Frontend** | UI/UX design, accessibility, design systems |
+| 🟠 **Testing** | Quality assurance, security, performance |
+| 🏁 **Completion** | Deployment, monitoring, SRE, operations |
 
 
 ## 📖 The Legend
