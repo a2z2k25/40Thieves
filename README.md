@@ -75,7 +75,10 @@ Forty Thieves:
 
 
 
+
+
 ### 🏁 Usage ###
+
 
 ```bash
 # Work with a Chief
@@ -86,7 +89,11 @@ claude code --agent chiefs/product-chief.md
 ```
 
 
+
+
+
 ### 🏁 Repository ###
+
 
 ```
 forty-thieves/
@@ -99,20 +106,26 @@ forty-thieves/
     └── operations/
 ```
 
+
+
+
+
 ### 🏁 Key Features ###
 
+
 **Agent Capabilities**
-- 🏁 40 specialized agents across 5 domains (engineering, design, product, quality, operations)
-- 🟢 Hierarchical coordination - Chiefs delegate to specialists for optimal task execution
-- 🔴 Claude Code native - Optimized for Read, Write, Edit, Grep, Glob, Task, Bash tools
-- 🟡 Battle-tested patterns - RICE prioritization, ReAct loops, SRE principles, WCAG standards
-- 🟠 Production-ready - Security audits, performance testing, scalability patterns
+- **40 specialized agents** across 5 domains (engineering, design, product, quality, operations)
+- **Hierarchical coordination** - chiefs delegate to specialists for optimal task execution
+- **Claude Code native** optimized for read, write, edit, grep, glob, task, bash tools
+- **Battle-tested patterns** RICE prioritization, ReAct loops, SRE principles, WCAG standards
+- **Production-ready** security audits, performance testing, scalability patterns
+
 
 **BUMBA Framework Integration**
-- **Professional Development** - Industry-standard workflows and coordination patterns
-- **Multi-agent Orchestration** - Intelligent task delegation and parallel execution
-- **Enterprise-Ready** - Quality enforcement, testing automation, deployment pipelines
-- **Consistent Structure** - Predictable agent definitions across all 40 specialists
+- **Professional Development** industry-standard workflows and coordination patterns
+- **Multi-agent Orchestration** intelligent task delegation and parallel execution
+- **Enterprise-Ready** quality enforcement, testing automation, deployment pipelines
+- **Consistent Structure** predictable agent definitions across all 40 specialists
 
 ---
 
