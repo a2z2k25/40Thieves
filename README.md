@@ -82,7 +82,6 @@ Engineering Chief receives auth request → spawns Backend Architect (design) + 
     ├── Design System Architect
     └── Prototyper
 
-
 ```
 
 <br>
@@ -106,6 +105,7 @@ Engineering Chief receives auth request → spawns Backend Architect (design) + 
     ├── 🟢 engineering/
     │
     └── 🔴 design/
+
 ```
 
 <br>
