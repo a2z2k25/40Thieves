@@ -33,6 +33,7 @@ Chiefs coordinate strategy and spawn specialists via the task tool for focused e
 40 Thieves:
 │
 ├── 🟢 Engineering Chief
+│   │
 │   ├── Backend Architect
 │   ├── Frontend Developer
 │   ├── API Engineer
@@ -42,6 +43,7 @@ Chiefs coordinate strategy and spawn specialists via the task tool for focused e
 │   └── Code Reviewer
 │
 ├── 🔴 Design Chief
+│   │
 │   ├── UX Researcher
 │   ├── UI Designer
 │   ├── Interaction Designer
@@ -51,6 +53,7 @@ Chiefs coordinate strategy and spawn specialists via the task tool for focused e
 │   └── Prototyper
 │
 ├── 🟡 Product Chief
+│   │
 │   ├── Market Researcher
 │   ├── User Analyst
 │   ├── Requirement Engineer
@@ -60,6 +63,7 @@ Chiefs coordinate strategy and spawn specialists via the task tool for focused e
 │   └── Competitive Intelligence Analyst
 │
 ├── 🟠 Quality Chief
+│   │
 │   ├── QA Engineer
 │   ├── Security Auditor
 │   ├── Performance Tester
@@ -69,6 +73,7 @@ Chiefs coordinate strategy and spawn specialists via the task tool for focused e
 │   └── Mobile Tester
 │
 └── 🟠 Operations Chief
+    │
     ├── Cloud Architect
     ├── DevOps Specialist
     ├── Kubernetes Engineer
@@ -85,8 +90,11 @@ Chiefs coordinate strategy and spawn specialists via the task tool for focused e
 
 ```
 forty-thieves/
-├── chiefs/          (5 strategic leaders)
-└── specialists/     (35 domain experts)
+│
+├── chiefs/          (5 managers)
+│
+└── specialists/     (35 subagents)
+    │
     ├── engineering/
     ├── design/
     ├── product/
