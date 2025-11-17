@@ -1,12 +1,14 @@
 ```
-██╗  ██╗ ██████╗     ████████╗██╗  ██╗██╗███████╗██╗   ██╗███████╗███████╗
-██║  ██║██╔═████╗    ╚══██╔══╝██║  ██║██║██╔════╝██║   ██║██╔════╝██╔════╝
-███████║██║██╔██║       ██║   ███████║██║█████╗  ██║   ██║█████╗  ███████╗
-╚════██║████╔╝██║       ██║   ██╔══██║██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ╚════██║
-     ██║╚██████╔╝       ██║   ██║  ██║██║███████╗ ╚████╔╝ ███████╗███████║
-     ╚═╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝
+
+██╗  ██╗  ██████╗     ████████╗ ██╗  ██╗ ██╗ ███████╗ ██╗   ██╗ ███████╗ ███████╗
+██║  ██║ ██╔═████╗    ╚══██╔══╝ ██║  ██║ ██║ ██╔════╝ ██║   ██║ ██╔════╝ ██╔════╝
+███████║ ██║██╔██║       ██║    ███████║ ██║ █████╗   ██║   ██║ █████╗   ███████╗
+╚════██║ ████╔╝██║       ██║    ██╔══██║ ██║ ██╔══╝   ╚██╗ ██╔╝ ██╔══╝   ╚════██║
+     ██║ ╚██████╔╝       ██║    ██║  ██║ ██║ ███████╗  ╚████╔╝  ███████╗ ███████║
+     ╚═╝  ╚═════╝        ╚═╝    ╚═╝  ╚═╝ ╚═╝ ╚══════╝   ╚═══╝   ╚══════╝ ╚══════╝
 
 🏁 Part of the Multi-Agent BUMBA CLI Framework 🏁 
+
 ```
 
 [![BUMBA Framework](https://img.shields.io/badge/BUMBA-Framework-gold.svg)](https://bumba.ai)
@@ -16,13 +18,12 @@
 
 40 specialized AI Agents. Hierarchical coordination. Production-ready patterns. Claude Code native. The Forty Thieves Agent Team combines 5 Chiefs (strategic leaders) and 35 Specialists (domain experts). Each Agent is a master of their craft, working together to unlock software excellence.
 
-🏁 **Part of the BUMBA Multi-Agent Framework** 🏁
 
-
-## 📂 Structure
+🏁 Structure
 
 ```
-Ali Baba's Forty Thieves (40 agents)
+
+Forty Thieves:
 │
 ├── 🟢 Engineering Chief
 │   ├── Backend Architect
@@ -71,14 +72,14 @@ Ali Baba's Forty Thieves (40 agents)
 ```
 
 
-## 🎯 How It Works
+🏁 How It Works
 
-**Chiefs** coordinate strategy and spawn **Specialists** via the Task tool for focused execution. All agents use Claude Code native tools (Read, Write, Edit, Grep, Glob, Task, Bash) and follow the ReAct pattern.
+Chiefs coordinate strategy and spawn. Specialists via the Task tool for focused execution. All agents use Claude Code native tools (Read, Write, Edit, Grep, Glob, Task, Bash) and follow the ReAct pattern.
 
-**Example**: 🟢 Engineering Chief receives auth request → spawns Backend Architect (design) + API Engineer (OAuth) + Database Specialist (schema) + 🟠 Security Auditor (review) → delivers integrated system.
+Example: 🟢 Engineering Chief receives auth request → spawns Backend Architect (design) + API Engineer (OAuth) + Database Specialist (schema) + 🟠 Security Auditor (review) → delivers integrated system.
 
 
-## 🚀 Usage
+🏁 Usage
 
 ```bash
 # Work with a Chief
@@ -89,7 +90,7 @@ claude code --agent chiefs/product-chief.md
 ```
 
 
-## 📂 Repository
+🏁 Repository
 
 ```
 forty-thieves/
@@ -103,7 +104,7 @@ forty-thieves/
 ```
 
 
- 🏁 Key Features
+🏁 Key Features
 
 Agent Capabilities
 - 🏁 40 specialized agents across 5 domains (engineering, design, product, quality, operations)
