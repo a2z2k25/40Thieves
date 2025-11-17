@@ -32,26 +32,6 @@ Engineering Chief receives auth request → spawns Backend Architect (design) + 
 ```
 40 Thieves:
 │
-├── 🟢 Engineering Chief
-│   │
-│   ├── Backend Architect
-│   ├── Frontend Developer
-│   ├── API Engineer
-│   ├── Database Specialist
-│   ├── DevOps Engineer
-│   ├── Performance Engineer
-│   └── Code Reviewer
-│
-├── 🔴 Design Chief
-│   │
-│   ├── UX Researcher
-│   ├── UI Designer
-│   ├── Interaction Designer
-│   ├── Visual Designer
-│   ├── Accessibility Specialist
-│   ├── Design System Architect
-│   └── Prototyper
-│
 ├── 🟡 Product Chief
 │   │
 │   ├── Market Researcher
@@ -62,7 +42,7 @@ Engineering Chief receives auth request → spawns Backend Architect (design) + 
 │   ├── Product Metrics Analyst
 │   └── Competitive Intelligence Analyst
 │
-├── 🟠 Quality Chief
+├── 🟠 QA Testing Chief
 │   │
 │   ├── QA Engineer
 │   ├── Security Auditor
@@ -72,15 +52,37 @@ Engineering Chief receives auth request → spawns Backend Architect (design) + 
 │   ├── Automation Engineer
 │   └── Mobile Tester
 │
-└── 🟠 Operations Chief
+├── 🟠 Operations Chief
+│    │
+│    ├── Cloud Architect
+│    ├── DevOps Specialist
+│    ├── Kubernetes Engineer
+│    ├── Database Administrator
+│    ├── SRE Engineer
+│    ├── Monitoring Specialist
+│    └── Network Engineer
+│
+├── 🟢 Engineering Chief
+│   │
+│   ├── Backend Architect
+│   ├── Frontend Developer
+│   ├── API Engineer
+│   ├── Database Specialist
+│   ├── DevOps Engineer
+│   ├── Performance Engineer
+│   └── Code Reviewer
+│
+└── 🔴 Design Chief
     │
-    ├── Cloud Architect
-    ├── DevOps Specialist
-    ├── Kubernetes Engineer
-    ├── Database Administrator
-    ├── SRE Engineer
-    ├── Monitoring Specialist
-    └── Network Engineer
+    ├── UX Researcher
+    ├── UI Designer
+    ├── Interaction Designer
+    ├── Visual Designer
+    ├── Accessibility Specialist
+    ├── Design System Architect
+    └── Prototyper
+
+
 ```
 
 <br>
@@ -95,11 +97,11 @@ forty-thieves/
 │
 └── specialists/     (35 subagents)
     │
-    ├── engineering/
-    ├── design/
-    ├── product/
-    ├── quality/
-    └── operations/
+    ├── 🟡strategy/
+    ├── 🟠qa-testing/
+    ├── 🟠operations/
+    ├── 🟢 engineering/
+    └── 🔴 design/
 ```
 
 <br>
