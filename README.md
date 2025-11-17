@@ -103,14 +103,14 @@ forty-thieves/
 ```
 
 
-## ✨ Key Features
+ 🏁 Key Features
 
-### Agent Capabilities
-- 🏁 **40 specialized agents** across 5 domains (engineering, design, product, quality, operations)
-- 🟢 **Hierarchical coordination** - Chiefs delegate to specialists for optimal task execution
-- 🔴 **Claude Code native** - Optimized for Read, Write, Edit, Grep, Glob, Task, Bash tools
-- 🟡 **Battle-tested patterns** - RICE prioritization, ReAct loops, SRE principles, WCAG standards
-- 🟠 **Production-ready** - Security audits, performance testing, scalability patterns
+Agent Capabilities
+- 🏁 40 specialized agents across 5 domains (engineering, design, product, quality, operations)
+- 🟢 Hierarchical coordination - Chiefs delegate to specialists for optimal task execution
+- 🔴 Claude Code native - Optimized for Read, Write, Edit, Grep, Glob, Task, Bash tools
+- 🟡 Battle-tested patterns - RICE prioritization, ReAct loops, SRE principles, WCAG standards
+- 🟠 Production-ready - Security audits, performance testing, scalability patterns
 
 ### BUMBA Framework Integration
 - **Professional Development** - Industry-standard workflows and coordination patterns
@@ -118,29 +118,8 @@ forty-thieves/
 - **Enterprise-Ready** - Quality enforcement, testing automation, deployment pipelines
 - **Consistent Structure** - Predictable agent definitions across all 40 specialists
 
-
-## 🏁 BUMBA Framework
-
-### Framework Components
-
-| Component | Purpose |
-|-----------|---------|
-| 🟡 **Strategy** | Product planning, RICE prioritization, roadmap |
-| 🟢 **Backend** | Infrastructure, APIs, database, DevOps |
-| 🔴 **Frontend** | UI/UX design, accessibility, design systems |
-| 🟠 **Testing** | Quality assurance, security, performance |
-| 🏁 **Completion** | Deployment, monitoring, SRE, operations |
-
-
-## 📖 The Legend
-
-> *In the story of Ali Baba, Forty Thieves worked together, each with unique skills, to unlock fortune. The Forty Thieves Agent Team follows that tradition—forty specialized AI agents, each a master of their craft, working together within the BUMBA Framework to unlock software excellence.*
-
-
 ---
 
-<div align="center">
-
-🏁 **40 THIEVES** - Multi-Agent Architecture for the BUMBA Framework 🏁
+🏁 40 THIEVES - Multi-Agent Architecture for the BUMBA Framework 🏁
 
 </div>
