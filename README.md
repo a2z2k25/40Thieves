@@ -6,7 +6,7 @@
      ██║╚██████╔╝       ██║   ██║  ██║██║███████╗ ╚████╔╝ ███████╗███████║
      ╚═╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝
 
-Multi-Agent Architecture for Claude Code
+🏁 Part of the Multi-Agent BUMBA CLI Framework 🏁 
 ```
 
 [![BUMBA Framework](https://img.shields.io/badge/BUMBA-Framework-gold.svg)](https://bumba.ai)
